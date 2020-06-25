@@ -50,7 +50,7 @@ $ make
 ## Usage
 
 ```
-~/B-MAT-100> ./106bombyx n [k | i0 i1]
+~/B-MAT-200> ./106bombyx n [k | i0 i1]
 ```
 
 - **n:** number of first generation individuals
